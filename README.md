@@ -5,6 +5,8 @@
 
 Built for the **PayPal AI Hackathon 2026**.
 
+**Live demo:** https://proofpay-escrow.streamlit.app
+
 ![ProofPay](docs/gallery/05_ai_releases_payment.png)
 
 ## The problem

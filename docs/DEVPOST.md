@@ -107,7 +107,7 @@ python, streamlit, paypal, paypal-orders-api, paypal-payments-api, paypal-checko
 
 ## "Try it out" links
 
-- Live demo: https://YOUR-APP-NAME.streamlit.app
+- Live demo: https://proofpay-escrow.streamlit.app
 - Source code: https://github.com/abdulmannaan502/proofpay
 
 ## Image gallery (upload in this order, all 3:2)
@@ -127,7 +127,7 @@ the delivered work against criteria both sides agreed on, then captures the paym
 specific fixes, or writes an evidence pack for dispute review. Clients can void the hold anytime
 before release.
 
-Live demo: https://YOUR-APP-NAME.streamlit.app
+Live demo: https://proofpay-escrow.streamlit.app
 Code: https://github.com/abdulmannaan502/proofpay
 
 Built for the PayPal AI Hackathon 2026.
